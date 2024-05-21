@@ -1,0 +1,19 @@
+{
+  "name": "weibo",
+  "version": "1.0.0",
+  "description": "a python flash server",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiYounger/weibo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiYounger/weibo/issues"
+  },
+  "homepage": "https://github.com/MiYounger/weibo#readme"
+}
