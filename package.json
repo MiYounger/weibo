@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MiYounger/weibo/issues"
   },
-  "homepage": "https://github.com/MiYounger/weibo#readme"
+  "homepage": "https://github.com/MiYounger/weibo#readme",
+  "publishConfig": {
+    "@'362024758@qq.com':registry": "https://npm.pkg.github.com"
+  }
 }
