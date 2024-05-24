@@ -1,5 +1,5 @@
 {
-  "name": "weibo",
+  "name": "weibox",
   "version": "1.0.0",
   "description": "a python flask server",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MiYounger/weibo.git"
+    "url": "https://github.com/MiYounger/weibox.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MiYounger/weibo/issues"
+    "url": "https://github.com/MiYounger/weibox/issues"
   },
-  "homepage": "https://github.com/MiYounger/weibo#readme",
+  "homepage": "https://github.com/MiYounger/weibox#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   }
