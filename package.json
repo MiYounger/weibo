@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/MiYounger/weibox#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "https://npm.pkg.github.com"
   }
 }
